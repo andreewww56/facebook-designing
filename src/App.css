@@ -1,0 +1,17 @@
+.login-content{
+  display: flex;
+  height: 500px;
+  background: linear-gradient(white,#d3d8e8);
+}
+.mapimage{
+  margin-top: 100px;
+  margin-left: 100px
+}
+.label-app{
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+
+.app-signup{
+  margin-right: 100px;
+}

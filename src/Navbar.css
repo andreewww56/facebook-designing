@@ -1,0 +1,35 @@
+.navbar-login{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: #4267b2;
+}
+.login-title{
+  margin-left: 20px;
+}
+.navbar-content{
+  padding-top: 10px;
+  display: flex;
+  font-size: smaller;
+}
+
+.navbar-username-input{
+  margin-top: 5px;
+  padding-left: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  
+}
+.navbar-password-input{
+  margin-top: 5px;  
+  padding-left: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+.navbar-login-button{
+  margin-top: 23px;
+  margin-right: 20px;
+  width: 60px;
+  color: white;
+  background: border-box;
+}

@@ -1,0 +1,56 @@
+.signup-container{
+  margin-top:15px; 
+}
+.input-firstname{
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  
+}
+.input-lastname{
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  border-radius: 5px;
+}
+.input{
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+  width: 413px;
+}
+.signup{
+  margin-bottom: 10px;
+}
+.datepicker{
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.radiocheck{
+  display: flex;
+  margin-bottom: 8px;
+}
+.label-term{
+  font-size: smaller;
+}
+.buttonsignup{
+  margin-top: 25px;
+  width: 160px;
+  height: 40px;
+  font-size: 24px;
+  color: white;
+  background: forestgreen;
+}
