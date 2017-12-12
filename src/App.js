@@ -12,7 +12,9 @@ export default class App extends React.Component {
           <Navbar/>           
           <div className="login-content">
             <div className="mapimage">
-              <label className="label-app">Facebook heps you connect and share with the people in your life</label>
+              <div className="label-app">
+                <label >Facebook heps you connect and share with the <br/> people in your life</label>
+              </div>
               <img className="image-map" src={Map} alt="img"/>
             </div>
             <div className="app-signup">
